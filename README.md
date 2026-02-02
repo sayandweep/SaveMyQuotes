@@ -128,7 +128,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **sayandweep**
 
 - GitHub: [@sayandweep](https://github.com/sayandweep)
-- Twitter: [@sayandweep](https://twitter.com/sayandweep) _(if applicable)_
+- Twitter: [@sayandweep](https://twitter.com/sayandweep)
+- Linkedin: [@sayandweep](https://linkedin.com/in/sayandweep)
 
 ## ⭐ Show Your Support
 
