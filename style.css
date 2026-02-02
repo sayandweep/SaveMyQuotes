@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+body {
+  font-family: 'Google Sans', Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 56px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+}
+
+p {
+  font-size: 13px;
+  margin: 0 0 4px 0;
+}
+
+small {
+  color: #666;
+}
+
+a {
+  font-size: 12px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 30px;
+    border-radius: 10px;
+}
+
+.logotitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 5px;
+    align-items: center;
+}
+
+.p2 {
+    background: #ffb0b0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.p2 a {
+    color: rgb(0, 0, 0);
+}
+ li {
+    border: none;
+    margin-top: 10px;
+ }
+ ol {
+    margin-top: 30px;
+    padding-left: 20px
+ }
