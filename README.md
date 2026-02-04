@@ -18,10 +18,7 @@ Never lose an inspiring quote again! SaveMyQuotes lets you highlight any text on
 
 ## 🖼️ Screenshots
 
-_Coming soon! Add screenshots of:_
-- Right-click context menu
-- Quotes popup/display
-- Quote management interface
+<img src="https://i.ibb.co/b53j3HQZ/Recording-2026-02-04-114808.gif" alt="Recording-2026-02-04-114808" border="0" width='100'>
 
 ## 🚀 Installation
 
