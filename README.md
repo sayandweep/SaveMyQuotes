@@ -18,7 +18,7 @@ Never lose an inspiring quote again! SaveMyQuotes lets you highlight any text on
 
 ## 🖼️ Screenshots
 
-<img src="https://i.ibb.co/bM2B5BrJ/Screenshot-2026-02-04-114634.png" alt="Screenshot 2026 02 04 114634" border="0" width='50%'>
+<img src="https://i.ibb.co/bM2B5BrJ/Screenshot-2026-02-04-114634.png" alt="Screenshot 2026 02 04 114634" border="0" width='30%' style='border-radius:10px'>
 
 ## 🚀 Installation
 
