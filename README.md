@@ -27,10 +27,7 @@ Never lose an inspiring quote again! SaveMyQuotes lets you highlight any text on
 Since this extension is not yet published on the Chrome Web Store, you'll need to install it manually:
 
 1. **Download the extension**
-   ```bash
-   git clone https://github.com/sayandweep/SaveMyQuotes.git
-   ```
-   Or download as ZIP and extract it.
+   Download the ZIP file from the Release. 
 
 2. **Open Chrome Extensions page**
    - Navigate to `chrome://extensions/`
